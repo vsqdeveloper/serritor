@@ -12,7 +12,7 @@ and written in Java. It can be used to crawl dynamic web pages that require Java
 data.
 
 ## Using Serritor in your build
-### Maven
+### Maven : Project management tool that is based on POM
 
 Add the following dependency to your pom.xml:
 ```xml
