@@ -108,13 +108,4 @@ all the features that are provided by Selenium.
 
 For providing a free JetBrains Open Source license to support the development of this project.
 
-## Support
-If this framework helped you in any way, or you would like to support the development:
 
-[![Support via PayPal](https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg)](https://paypal.me/peterbencze)
-
-Any amount you choose to give will be greatly appreciated.
-
-## License
-The source code of Serritor is made available under the 
-[Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
