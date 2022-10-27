@@ -43,7 +43,7 @@ The standalone JAR files are available on the
 The `Crawler` abstract class provides a skeletal implementation of a crawler to minimize the effort 
 to create your own. The extending class should implement the logic of the crawler.
 
-Below you can find a simple example that is enough to get you started:
+Below you can find a simple example that is enough to get you started:-
 ```java
 public class MyCrawler extends Crawler {
 
