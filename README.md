@@ -9,7 +9,9 @@ Serritor
 
 Serritor is an open source web crawler framework built upon [Selenium](http://www.seleniumhq.org/) 
 and written in Java. It can be used to crawl dynamic web pages that require JavaScript to render 
-data.
+data.Selenium is an open source umbrella project for a range of tools and libraries aimed at 
+supporting browser automation. It provides a playback tool for authoring functional tests across
+most modern web browsers, without the need to learn a test scripting language.
 
 ## Using Serritor in your build
 ### Maven : Project management tool that is based on POM
@@ -83,7 +85,8 @@ MyCrawler crawler = new MyCrawler(config);
 // Start crawling with HtmlUnit
 crawler.start();
 ```
-Of course, you can also use other browsers. Currently Chrome and Firefox are supported.
+Of course, you can also use other browsers. Currently Chrome and Firefox are 
+supported(The more recent updated version the better).
 ```java
 // Create the configuration
 CrawlerConfiguration config = new CrawlerConfigurationBuilder()
